@@ -2,3 +2,7 @@
 	path = libA
 	url = https://github.com/famoses/libA.git
 	branch = master
+[submodule "libB"]
+	path = libB
+	url = https://github.com/famoses/libB.git
+	branch = master
