@@ -1,4 +1,4 @@
-# hello-submodules
+# hello-s
 This is a git superproject which is used to source-control multiple applications that are structured by using git submodules. The main assumption is that there are many submodules and there is a great overlap in using them in the applications. 
 
 Benefits of this structure:
